@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Hello jekyll
-tagline: Supporting tagline
+title: 日本語コーパス置き場
+tagline: 管理人の個人的なコーパスコレクションです
 ---
 {% include JB/setup %}
-
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
