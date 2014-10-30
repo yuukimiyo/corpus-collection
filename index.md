@@ -1,37 +1,35 @@
 ---
 layout: page
-title: 日本語コーパス置き場
+title: コーパスの樹
 tagline: 管理人の個人的なコーパスコレクションです
 ---
 {% include JB/setup %}
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
-## Update Author Attributes
+## ご利用にあたって
 
-In `_config.yml` remember to specify your own data:
+このページで紹介しているコーパスは管理人が個人的に収集したものです。
+原本に関する情報は各コーパスの説明を参照してください。
 
-    title : My Blog =)
+ご利用に当たって管理人の許可を得る必要はありません。
+ご自身の判断で自由ご利用頂いて構いません。
 
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+オリジナルに忠実に収集して掲載しているつもりですが、コピーミスなどがあるかもしれません。
+正確さが必要な場合などは原本を参照してください。
 
-The theme should reference these variables whenever needed.
+誤りや、権利の侵害などに関するご指摘は次のメールアドレスへご連絡ください。
 
-## Sample Posts
+yuuki.miyo[at]gmail.com
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+（[at]の部分は「@」に置き換えてください）
 
-    $ rm -rf _posts/core-samples
+## 日本語コーパス / Japanese corpus
 
-Here's a sample "posts list".
+日本語のコーパスです。
 
 <ul class="posts">
   {% for post in site.posts %}
+  <li><h3>戦後の所信表明演説</h3></li>
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
