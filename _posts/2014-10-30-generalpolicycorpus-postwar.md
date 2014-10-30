@@ -51,3 +51,6 @@ Wikipediaの「所信表明演説」から戦後の歴代首相が所信表明�
 
 [https://github.com/yuukimiyo/GeneralPolicySpeechOfPrimeMinisterOfJapan/archive/master.zip](https://github.com/yuukimiyo/GeneralPolicySpeechOfPrimeMinisterOfJapan/archive/master.zip)
 
+## GitHub
+
+[https://github.com/yuukimiyo/GeneralPolicySpeechOfPrimeMinisterOfJapan](https://github.com/yuukimiyo/GeneralPolicySpeechOfPrimeMinisterOfJapan)
