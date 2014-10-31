@@ -16,10 +16,8 @@ tagline: 管理人の個人的なコーパスコレクションです
 ご自身の判断で自由ご利用頂いて構いません。
 
 
-## 日本語コーパス / Japanese corpus
+## コーパス
 
-
-日本語のコーパスです。
 
 <ul class="posts">
   {% for post in site.posts %}
